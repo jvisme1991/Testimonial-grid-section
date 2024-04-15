@@ -191,6 +191,15 @@ main {
   box-shadow: 2.5rem 3.75rem 3rem -3rem var(--clr-primary-dark-gray-blue);
 }
 
+.daniel-pic {
+  border: 2px solid var(--clr-primary-white-opacity-light);
+}
+
+.col:nth-child(4) img {
+  border: 2px solid;
+  color: var(--clr-primary-violet);
+}
+
 /* add profile pic borders */
 
 @media (min-width: 83rem) {
